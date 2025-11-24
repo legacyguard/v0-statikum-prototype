@@ -25,5 +25,68 @@
     "related_client": "Klient Y",
     "related_docs": ["doc-005"],
     "related_metrics": []
+  },
+  {
+    "id": "q-4",
+    "match": "inventarni majetek klienta z",
+    "title": "Inventární majetek Klienta Z",
+    "answer_text": "Klient Z eviduje k 31.12.2024 celkem 38 položek dlouhodobého majetku s celkovou pořizovací cenou přes 20 mil. Kč. Nejvýznamnější položky tvoří vozidla (Mercedes, Hyundai, Toyota, Lexus) s celkovou hodnotou přes 15 mil. Kč, servery a IT vybavení (přes 3 mil. Kč) a nábytek (přes 1 mil. Kč). Většina majetku je již plně odepsána, pouze novější vozidla a servery mají ještě zůstatkovou hodnotu.",
+    "related_client": "Klient Z",
+    "related_docs": ["doc-006"],
+    "related_metrics": []
+  },
+  {
+    "id": "q-5",
+    "match": "servisni smlouvy klienta z",
+    "title": "Servisní smlouvy Klienta Z",
+    "answer_text": "Klient Z má uzavřenou servisní smlouvu na údržbu VZT jednotek a chladících zařízení na dobu neurčitou s výpovědní lhůtou 3 měsíců. Smlouva zahrnuje pravidelné servisy VZT jednotky v 2.PP (4x ročně za 1 400 Kč), chladících jednotek FCU (2x ročně za 650 Kč/kus) a koncových prvků vzduchotechniky (2x ročně za 85 Kč/kus). Havarijní pohotovost je zajištěna 24/7 s výjezdem 350 Kč a hodinovou sazbou 450 Kč/hod.",
+    "related_client": "Klient Z",
+    "related_docs": ["doc-007"],
+    "related_metrics": []
+  },
+  {
+    "id": "q-6",
+    "match": "stavebni projekty klienta z",
+    "title": "Stavební projekty Klienta Z",
+    "answer_text": "Klient Z realizoval v roce 2020 výstavbu Safe Boxes v objektu BBP v Brně. Projekt zahrnoval vestavbu trezoru ve třech výškových úrovních (1.NP, 1.PP, 2.PP) s robotickým zařízením pro obsluhu bezpečnostních schránek. Celková cena díla činila 7,5 mil. Kč bez DPH. Stavba byla dokončena v únoru 2021 s 60měsíční záruční dobou. Stavební povolení bylo vydáno v lednu 2020 s termínem dokončení do listopadu 2020.",
+    "related_client": "Klient Z",
+    "related_docs": ["doc-008", "doc-009"],
+    "related_metrics": []
+  },
+  {
+    "id": "q-7",
+    "match": "zastavni prava pozemky klienta w",
+    "title": "Zástavní práva na pozemcích Klienta W",
+    "answer_text": "Klient W vlastní v katastru Býšť celkem 7 pozemků o celkové výměře 23 284 m² (zemědělské pozemky a komunikace). Na hlavní parcele 182/1 jsou zapsána tři zástavní práva ve prospěch UniCredit Bank: první ve výši 4 mil. Kč z roku 2018, druhé ve výši 680 tis. Kč z roku 2019 a třetí ve výši 1,575 mil. Kč z roku 2023. Všechna zástavní práva mají zákaz zcizení a zatížení bez souhlasu banky. Celková hodnota zajištěných pohledávek činí 6,255 mil. Kč.",
+    "related_client": "Klient W",
+    "related_docs": ["doc-010"],
+    "related_metrics": ["m-015"]
+  },
+  {
+    "id": "q-8",
+    "match": "financni situace klienta z 2024",
+    "title": "Finanční situace Klienta Z k 31.12.2024",
+    "answer_text": "K 31.12.2024 vykázal Klient Z aktiva celkem 175,175 mil. Kč, z čehož dlouhodobý majetek představuje 169,6 mil. Kč a oběžná aktiva pouze 5,6 mil. Kč. Vlastní kapitál činí 104 mil. Kč (59% aktiv), závazky 70,6 mil. Kč (41% aktiv). Výsledek hospodaření za rok 2024 dosáhl 14,975 mil. Kč, což představuje pokles oproti předchozímu roku (48,8 mil. Kč v roce 2023). Pokles je způsoben především vyššími náklady a investicemi do dlouhodobého majetku.",
+    "related_client": "Klient Z",
+    "related_docs": ["doc-011"],
+    "related_metrics": ["m-011", "m-012", "m-013", "m-014"]
+  },
+  {
+    "id": "q-9",
+    "match": "vozidla flotila klienta z",
+    "title": "Vozidla ve flotile Klienta Z",
+    "answer_text": "Klient Z provozuje flotilu 20+ vozidel různých kategorií. Nejvýznamnější položky zahrnují prémiové vozy Mercedes (3 ks, celková hodnota přes 8 mil. Kč), Hyundai i30 (8 ks, hodnota cca 3,5 mil. Kč), Toyota (1 ks, 1,08 mil. Kč) a Lexus (1 ks, 1,92 mil. Kč). Většina vozidel je z let 2020-2024, pouze starší vozidla jsou již plně odepsána. Vozidla jsou využívána pro služební účely v různých střediscích (Praha, Olomouc, Ostrava, Pardubice, Nymburk).",
+    "related_client": "Klient Z",
+    "related_docs": ["doc-006"],
+    "related_metrics": []
+  },
+  {
+    "id": "q-10",
+    "match": "it vybaveni servery klienta z",
+    "title": "IT vybavení a servery Klienta Z",
+    "answer_text": "Klient Z vlastní rozsáhlé IT vybavení včetně doménového serveru, poštovního serveru, serverů pro jednotlivá střediska (Nymburk, Pardubice, Český Krumlov) a centrální servrovny v Praze. Celková hodnota IT majetku přesahuje 3 mil. Kč. Nejvýznamnější položkou je software Encore (1,71 mil. Kč) a nová servrovna z roku 2024 (1,61 mil. Kč). Většina serverů je z let 2021-2024 a má ještě významnou zůstatkovou hodnotu. IT infrastruktura je klíčová pro provoz podniku.",
+    "related_client": "Klient Z",
+    "related_docs": ["doc-006"],
+    "related_metrics": []
   }
 ]

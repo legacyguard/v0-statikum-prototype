@@ -48,5 +48,65 @@
     "short_description": "List vlastnictví – provozovna 1, zapsané zástavní právo.",
     "link": "#",
     "text_excerpt": "Na nemovitosti je zapsáno zástavní právo ve prospěch Banky Z, jistina 40 mil. Kč..."
+  },
+  {
+    "id": "doc-006",
+    "name": "Inventarni_karty_DM_2024.pdf",
+    "doc_type": "inventární karty",
+    "client": "Klient Z",
+    "year": 2024,
+    "short_description": "Výpis inventárních karet dlouhodobého majetku k 31.12.2024.",
+    "link": "#",
+    "text_excerpt": "Inventární karty obsahují 38 položek dlouhodobého majetku včetně vozidel, serverů, nábytku a technického vybavení. Celková pořizovací cena majetku činí přes 20 mil. Kč..."
+  },
+  {
+    "id": "doc-007",
+    "name": "Servisni_smlouva_VZT_2021.pdf",
+    "doc_type": "servisní smlouva",
+    "client": "Klient Z",
+    "year": 2021,
+    "short_description": "Servisní smlouva na VZT jednotky a chladící zařízení, doba neurčitá.",
+    "link": "#",
+    "text_excerpt": "Smlouva zahrnuje servis a čištění VZT jednotky v 2.PP (4x ročně), chladících jednotek FCU v 1.NP (2x ročně) a koncových prvků vzduchotechniky (2x ročně). Cena za jeden servis VZT jednotky: 1 400 Kč bez DPH..."
+  },
+  {
+    "id": "doc-008",
+    "name": "Smlouva_o_dilo_SafeBoxes_2020.pdf",
+    "doc_type": "smlouva o dílo",
+    "client": "Klient Z",
+    "year": 2020,
+    "short_description": "Smlouva o dílo na výstavbu Safe Boxes v Brně, cena 7,5 mil. Kč.",
+    "link": "#",
+    "text_excerpt": "Předmětem smlouvy je výstavba Safe Boxes v objektu BBP, budova C. Cena díla činí 7 529 293 Kč bez DPH. Záruční doba 60 měsíců od předání díla. Splatnost faktur 30 dnů, zadrženo 10% z ceny..."
+  },
+  {
+    "id": "doc-009",
+    "name": "Stavebni_povoleni_SafeBoxes_2020.pdf",
+    "doc_type": "stavební povolení",
+    "client": "Klient Z",
+    "year": 2020,
+    "short_description": "Stavební povolení pro vestavbu trezoru Safe Boxes v Brně.",
+    "link": "#",
+    "text_excerpt": "Stavební povolení č. MCBS/2020/0167093 ze dne 27.1.2020 pro vestavbu trezoru ve třech výškových úrovních (1.NP, 1.PP, 2.PP). Stavba musí být dokončena do 30.11.2020..."
+  },
+  {
+    "id": "doc-010",
+    "name": "LV_Pozemky_Byst_2025.pdf",
+    "doc_type": "list vlastnictví",
+    "client": "Klient W",
+    "year": 2025,
+    "short_description": "Výpis z katastru nemovitostí – pozemky v Býšti, zástavní práva.",
+    "link": "#",
+    "text_excerpt": "List vlastnictví č. 208 obsahuje 7 pozemků o celkové výměře 23 284 m². Na parcele 182/1 jsou zapsána tři zástavní práva ve prospěch UniCredit Bank ve výši 4 mil. Kč, 680 tis. Kč a 1,575 mil. Kč..."
+  },
+  {
+    "id": "doc-011",
+    "name": "Ucetni_zaverka_2024_KlientZ.pdf",
+    "doc_type": "účetní závěrka",
+    "client": "Klient Z",
+    "year": 2024,
+    "short_description": "Účetní závěrka za rok 2024 ve zkráceném rozsahu pro malou účetní jednotku.",
+    "link": "#",
+    "text_excerpt": "Aktiva celkem: 175,175 mil. Kč (z toho dlouhodobý majetek 169,6 mil. Kč, oběžná aktiva 5,6 mil. Kč). Pasiva celkem: 175,175 mil. Kč (vlastní kapitál 104 mil. Kč, závazky 70,6 mil. Kč). Výsledek hospodaření: 14,975 mil. Kč..."
   }
 ]

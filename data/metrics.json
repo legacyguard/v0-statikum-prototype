@@ -46,5 +46,77 @@
     "metric_name": "ebitda",
     "metric_value": 18000000,
     "currency": "CZK"
+  },
+  {
+    "id": "m-007",
+    "client": "Klient X",
+    "year": 2023,
+    "metric_name": "trzby",
+    "metric_value": 130000000,
+    "currency": "CZK"
+  },
+  {
+    "id": "m-008",
+    "client": "Klient X",
+    "year": 2023,
+    "metric_name": "ebitda",
+    "metric_value": 20000000,
+    "currency": "CZK"
+  },
+  {
+    "id": "m-009",
+    "client": "Klient X",
+    "year": 2024,
+    "metric_name": "trzby",
+    "metric_value": 140000000,
+    "currency": "CZK"
+  },
+  {
+    "id": "m-010",
+    "client": "Klient X",
+    "year": 2024,
+    "metric_name": "ebitda",
+    "metric_value": 22000000,
+    "currency": "CZK"
+  },
+  {
+    "id": "m-011",
+    "client": "Klient Z",
+    "year": 2024,
+    "metric_name": "aktiva_celkem",
+    "metric_value": 175175000,
+    "currency": "CZK"
+  },
+  {
+    "id": "m-012",
+    "client": "Klient Z",
+    "year": 2024,
+    "metric_name": "vlastni_kapital",
+    "metric_value": 104046000,
+    "currency": "CZK"
+  },
+  {
+    "id": "m-013",
+    "client": "Klient Z",
+    "year": 2024,
+    "metric_name": "vysledek_hospodareni",
+    "metric_value": 14975000,
+    "currency": "CZK"
+  },
+  {
+    "id": "m-014",
+    "client": "Klient Z",
+    "year": 2024,
+    "metric_name": "zavazky",
+    "metric_value": 70629000,
+    "currency": "CZK"
+  },
+  {
+    "id": "m-015",
+    "client": "Klient W",
+    "year": 2025,
+    "metric_name": "zastavni_prava_celkem",
+    "metric_value": 6255000,
+    "currency": "CZK"
   }
 ]
