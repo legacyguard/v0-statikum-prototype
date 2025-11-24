@@ -17,7 +17,7 @@ export default function Home() {
         const data = await response.json()
         setMockData(data)
       } catch (error) {
-        console.error("[v0] Error fetching mock data:", error)
+        console.error("Error fetching mock data:", error)
         setMockData({ documents: [], metrics: [], answers: [] })
       } finally {
         setIsLoading(false)

@@ -1,30 +1,63 @@
-# Statikum AI prototype
+# Statikum AI Prototyp
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+AI asistent pro analýzu dokumentů a odpovědí na otázky týkající se klientů a jejich finančních dat.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/conasrdci-6990s-projects/v0-statikum-ai-prototype)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/uO40oETFHjV)
+## Přehled
 
-## Overview
+Tato aplikace umožňuje uživatelům klást otázky týkající se klientů a jejich dokumentů. Systém automaticky najde relevantní odpovědi, související dokumenty a finanční metriky.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## Funkce
 
-## Deployment
+- Interaktivní dotazovací systém
+- Automatické párování otázek s připravenými odpověďmi
+- Zobrazení souvisejících dokumentů
+- Vizualizace finančních metrik
+- Podpora více klientů
+- Tematický režim (světlý/tmavý)
 
-Your project is live at:
+## Technologie
 
-**[https://vercel.com/conasrdci-6990s-projects/v0-statikum-ai-prototype](https://vercel.com/conasrdci-6990s-projects/v0-statikum-ai-prototype)**
+- Next.js 16
+- React 19
+- TypeScript
+- Tailwind CSS
+- Radix UI komponenty
 
-## Build your app
+## Instalace
 
-Continue building your app on:
+```bash
+npm install
+# nebo
+pnpm install
+```
 
-**[https://v0.app/chat/uO40oETFHjV](https://v0.app/chat/uO40oETFHjV)**
+## Spuštění
 
-## How It Works
+Pro vývojové prostředí:
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+```bash
+npm run dev
+# nebo
+pnpm dev
+```
+
+Aplikace bude dostupná na [http://localhost:3000](http://localhost:3000)
+
+Pro produkční build:
+
+```bash
+npm run build
+npm start
+```
+
+## Struktura projektu
+
+- `app/` - Next.js aplikace a routy
+- `components/` - React komponenty
+- `data/` - Mock data (dokumenty, odpovědi, metriky)
+- `lib/` - Utility funkce a helpery
+- `types/` - TypeScript typy
+
+## Licence
+
+Soukromý projekt
