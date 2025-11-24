@@ -80,10 +80,6 @@ export function PasswordGate({ onAuthenticated }: PasswordGateProps) {
               Vstoupit do prototypu
             </Button>
           </form>
-
-          <p className="text-xs text-center text-muted-foreground/70 pt-2 border-t border-border">
-            Demo heslo: <code className="px-2 py-1 rounded bg-muted font-mono text-foreground">statikum2025</code>
-          </p>
         </div>
       </Card>
     </div>
