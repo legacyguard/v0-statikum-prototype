@@ -1,0 +1,29 @@
+[
+  {
+    "id": "q-1",
+    "match": "financni vysledky klienta x",
+    "title": "Finanční vývoj Klienta X (2020–2022)",
+    "answer_text": "Tržby Klienta X rostly z 100 mil. Kč v roce 2020 na 120 mil. Kč v roce 2022. EBITDA rostla mírně rychlejším tempem, což ukazuje na zlepšující se efektivitu podnikání. Rok 2020 byl slabší kvůli pandemii, ale v následujících letech firma stabilně posiluje.",
+    "related_client": "Klient X",
+    "related_docs": ["doc-001", "doc-002", "doc-003"],
+    "related_metrics": ["m-001", "m-002", "m-003", "m-004", "m-005", "m-006"]
+  },
+  {
+    "id": "q-2",
+    "match": "rizika najemnich smluv klienta y",
+    "title": "Hlavní rizika nájemních smluv Klienta Y",
+    "answer_text": "Za hlavní rizika lze považovat dlouhou výpovědní lhůtu (12 měsíců), jednostrannou možnost pronajímatele zvyšovat nájemné podle indexace CPI a omezenou možnost podnájmu prostor. V kombinaci s delší dobou nájmu to zvyšuje fixní nákladovou zátěž Klienta Y.",
+    "related_client": "Klient Y",
+    "related_docs": ["doc-004"],
+    "related_metrics": []
+  },
+  {
+    "id": "q-3",
+    "match": "zatizene nemovitosti klienta y",
+    "title": "Zatížené nemovitosti Klienta Y",
+    "answer_text": "U provozovny 1 je v katastru nemovitostí zapsáno zástavní právo ve prospěch Banky Z ve výši 40 mil. Kč. Nemovitost je tak zatížena vyšší úrovní zadlužení, což je důležité zohlednit při oceňování i při posuzování schopnosti generovat cash flow.",
+    "related_client": "Klient Y",
+    "related_docs": ["doc-005"],
+    "related_metrics": []
+  }
+]

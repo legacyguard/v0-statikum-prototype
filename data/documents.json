@@ -1,0 +1,52 @@
+[
+  {
+    "id": "doc-001",
+    "name": "Ucetni_zaverka_2022_KlientX.pdf",
+    "doc_type": "účetní závěrka",
+    "client": "Klient X",
+    "year": 2022,
+    "short_description": "Konsolidovaná účetní závěrka za rok 2022 – auditovaná.",
+    "link": "#",
+    "text_excerpt": "Společnost vykázala tržby 120 mil. Kč a EBITDA 18 mil. Kč. Meziročně došlo k růstu tržeb i ziskovosti..."
+  },
+  {
+    "id": "doc-002",
+    "name": "Ucetni_zaverka_2021_KlientX.pdf",
+    "doc_type": "účetní závěrka",
+    "client": "Klient X",
+    "year": 2021,
+    "short_description": "Konsolidovaná účetní závěrka za rok 2021 – auditovaná.",
+    "link": "#",
+    "text_excerpt": "Tržby za rok 2021 dosáhly 110 mil. Kč, EBITDA 17 mil. Kč. Společnost pokračuje ve stabilním růstu..."
+  },
+  {
+    "id": "doc-003",
+    "name": "Ucetni_zaverka_2020_KlientX.pdf",
+    "doc_type": "účetní závěrka",
+    "client": "Klient X",
+    "year": 2020,
+    "short_description": "Konsolidovaná účetní závěrka za rok 2020.",
+    "link": "#",
+    "text_excerpt": "Rok 2020 byl ovlivněn pandemií, tržby dosáhly 100 mil. Kč a EBITDA 15 mil. Kč..."
+  },
+  {
+    "id": "doc-004",
+    "name": "Najemni_smlouva_Provozovna1_KlientY.pdf",
+    "doc_type": "nájemní smlouva",
+    "client": "Klient Y",
+    "year": 2023,
+    "short_description": "Nájemní smlouva na provozovnu 1, doba určitá 5 let.",
+    "link": "#",
+    "text_excerpt": "Nájemné činí 250 000 Kč měsíčně, jistota ve výši tříměsíčního nájemného. Výpovědní lhůta je 12 měsíců..."
+  },
+  {
+    "id": "doc-005",
+    "name": "LV_Provozovna1_KlientY.pdf",
+    "doc_type": "list vlastnictví",
+    "client": "Klient Y",
+    "year": 2023,
+    "short_description": "List vlastnictví – provozovna 1, zapsané zástavní právo.",
+    "link": "#",
+    "text_excerpt": "Na nemovitosti je zapsáno zástavní právo ve prospěch Banky Z, jistina 40 mil. Kč..."
+  }
+]

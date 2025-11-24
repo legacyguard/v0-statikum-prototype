@@ -1,0 +1,50 @@
+[
+  {
+    "id": "m-001",
+    "client": "Klient X",
+    "year": 2020,
+    "metric_name": "trzby",
+    "metric_value": 100000000,
+    "currency": "CZK"
+  },
+  {
+    "id": "m-002",
+    "client": "Klient X",
+    "year": 2020,
+    "metric_name": "ebitda",
+    "metric_value": 15000000,
+    "currency": "CZK"
+  },
+  {
+    "id": "m-003",
+    "client": "Klient X",
+    "year": 2021,
+    "metric_name": "trzby",
+    "metric_value": 110000000,
+    "currency": "CZK"
+  },
+  {
+    "id": "m-004",
+    "client": "Klient X",
+    "year": 2021,
+    "metric_name": "ebitda",
+    "metric_value": 17000000,
+    "currency": "CZK"
+  },
+  {
+    "id": "m-005",
+    "client": "Klient X",
+    "year": 2022,
+    "metric_name": "trzby",
+    "metric_value": 120000000,
+    "currency": "CZK"
+  },
+  {
+    "id": "m-006",
+    "client": "Klient X",
+    "year": 2022,
+    "metric_name": "ebitda",
+    "metric_value": 18000000,
+    "currency": "CZK"
+  }
+]
