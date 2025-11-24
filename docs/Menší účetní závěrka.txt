@@ -1,0 +1,334 @@
+IČ:
+
+27124428
+
+Rozvaha pro podnikatele, ve zkráceném rozsahu pro malou účetní jednotku, která nemá povinnost mít účetní závěrku ověřenou auditorem ke dni 31.12.2024
+
+(v celých tisících CZK)
+
+AKTIVA
+
+běžné účetní období
+
+minulé účetní období netto
+
+brutto
+
+korekce
+
+netto
+
+1
+
+2
+
+3
+
+4
+
+AKTIVA CELKEM
+
+177821
+
+2646
+
+175175
+
+201333
+
+A.
+
+Pohledávky za upsaný základní kapitál
+
+0
+
+0
+
+0
+
+0
+
+B.
+
+Stálá aktiva
+
+172260
+
+2646
+
+169614
+
+118243
+
+B.I.
+
+Dlouhodobý nehmotný majetek
+
+0
+
+0
+
+0
+
+0
+
+B.II.
+
+Dlouhodobý hmotný majetek
+
+4439
+
+2646
+
+1793
+
+1885
+
+B.III.
+
+Dlouhodobý finanční majetek
+
+167821
+
+0
+
+167821
+
+116358
+
+C.
+
+Oběžná aktiva
+
+5551
+
+0
+
+5551
+
+83084
+
+C.I.
+
+Zásoby
+
+0
+
+0
+
+0
+
+0
+
+C.II.
+
+Pohledávky
+
+4901
+
+0
+
+4901
+
+3675
+
+C.II.1.
+
+Dlouhodobé pohledávky
+
+0
+
+0
+
+0
+
+0
+
+C.II.2.
+
+Krátkodobé pohledávky
+
+4901
+
+0
+
+4901
+
+3675
+
+C.II.3.
+
+Časové rozlišení aktiv
+
+0
+
+0
+
+0
+
+0
+
+C.III.
+
+Krátkodobý finanční majetek
+
+0
+
+0
+
+0
+
+77777
+
+C.IV.
+
+Peněžní prostředky
+
+650
+
+0
+
+650
+
+1632
+
+D.
+
+Časové rozlišení aktiv
+
+10
+
+0
+
+10
+
+6
+
+PASIVA
+
+běžné účetní období
+
+minulé účetní období
+
+1
+
+2
+
+PASIVA CELKEM
+
+175175
+
+201333
+
+A.
+
+Vlastní kapitál
+
+104046
+
+89071
+
+A.I.
+
+Základní kapitál
+
+200
+
+200
+
+A.II.
+
+Ážio a kapitálové fondy
+
+0
+
+0
+
+A.III.
+
+Fondy ze zisku
+
+20
+
+20
+
+A.IV.
+
+Výsledek hospodaření minulých let (+/-)
+
+88851
+
+40034
+
+A.V
+
+Výsledek hospodaření běžného účetního období (+/-)
+
+14975
+
+48817
+
+A.VI.
+
+Rozhodnuto o zálohové výplatě podílu na zisku (-)
+
+0
+
+0
+
+B.+C.
+
+Cizí zdroje
+
+70629
+
+112181
+
+B.
+
+Rezervy
+
+0
+
+0
+
+C.
+
+Závazky
+
+70629
+
+112181
+
+C.I.
+
+Dlouhodobé závazky
+
+0
+
+0
+
+C.II.
+
+Krátkodobé závazky
+
+70629
+
+112181
+
+C.III.
+
+Časové rozlišení pasiv
+
+0
+
+0
+
+D.
+
+Časové rozlišení pasiv
+
+500
+
+81
+

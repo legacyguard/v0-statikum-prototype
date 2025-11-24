@@ -1,0 +1,1546 @@
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 1
+
+Filtr: ================================================================================
+
+Číslo IM : 00052 Název :Trezor Typ :SAF 030B Výrobce :
+
+Dodavatel:Albez s r.o.
+
+Rok výroby : 1998 Výr.číslo :
+
+Umístění :Praha Středisko:999 Odp.pracovník :Landa
+
+-------------------------------------------------------------------------------Dat.zařaz:26.03.1998 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :28.75.21 Roční odpis.sazba v %: 6,9000 Automatický odpis : A Pořizovací cena : 47029,50 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 3 Způsob odpisu : R Vstupní cena : 47029,50 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00011 Název :Mikrovlnná trouba DAEWOO Typ :K637S02 Rok výroby : 1995 Výr.číslo : Výrobce :
+
+Dodavatel:Resat s r.o.
+
+Umístění :Olomouc Středisko:100 Odp.pracovník :Kuchyň
+
+-------------------------------------------------------------------------------Dat.zařaz:27.09.1995 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : Rok zvýšení pořiz.ceny :
+
+SKP :29.71.00 Roční odpis.sazba v %: 0,0000 Automatický odpis : N Pořizovací cena : 15164,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 1 Způsob odpisu : R Vstupní cena : 15164,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 2
+
+Filtr: ================================================================================
+
+Číslo IM : 00019 Název :Trezor s elektron.
+
+Typ :KS-100 Výrobce :
+
+Rok výroby : 1995 Výr.číslo :
+
+Dodavatel:Elektropodnik Umístění :Praha-kanc.č.16 Středisko:999 Odp.pracovník :Landa
+
+-------------------------------------------------------------------------------Dat.zařaz:17.11.1995 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :28.75.21 Roční odpis.sazba v %: 6,9000 Automatický odpis : A Pořizovací cena : 34160,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 3 Způsob odpisu : R Vstupní cena : 34160,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 3
+
+Filtr: ================================================================================
+
+Číslo IM : 00028 Název :Sestava nábytku Typ :
+
+Výrobce :
+
+Dodavatel:Messing a.s.
+
+Rok výroby : 1997 Výr.číslo :
+
+Umístění :Ostrava Středisko:300 Odp.pracovník :Tomášková
+
+-------------------------------------------------------------------------------Dat.zařaz:03.06.1997 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :36.10.00 Roční odpis.sazba v %:13,4000 Automatický odpis : A Pořizovací cena : 279973,80 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 279973,80 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00062 Název :Klimatizace Fujtsu Typ :
+
+Výrobce :
+
+Rok výroby : 1998 Výr.číslo :
+
+Dodavatel:koupě Umístění :Ostrava Středisko:300 Odp.pracovník :Vavřinec
+
+-------------------------------------------------------------------------------Dat.zařaz:31.12.1998 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.23.12 Roční odpis.sazba v %: 6,9000 Automatický odpis : A Pořizovací cena : 89475,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 3 Způsob odpisu : R Vstupní cena : 89475,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 4
+
+Filtr: ================================================================================
+
+Číslo IM : 00126 Název :Kopírovací stroj Typ :Runner iR1605 Výrobce :
+
+Rok výroby : 2005 Výr.číslo :
+
+Dodavatel:Copymat Umístění :Olomouc Středisko:100 Odp.pracovník :ostatní
+
+-------------------------------------------------------------------------------Dat.zařaz:17.03.2005 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :26.20.00 Roční odpis.sazba v %:33,3333 Automatický odpis : A Pořizovací cena : 70412,30 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 1 Způsob odpisu : R Vstupní cena : 70412,30 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 5
+
+Filtr: ================================================================================
+
+Číslo IM : 00165 Název :Kopírka Runner iRC 238 Typ : Rok výroby : 2011 Výr.číslo :
+
+Výrobce :
+
+Dodavatel:Copymat Umístění :Praha Středisko:200 Odp.pracovník :III.patro
+
+-------------------------------------------------------------------------------Dat.zařaz:30.03.2011 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :26.20.00 Roční odpis.sazba v %:33,3300 Automatický odpis : A Pořizovací cena : 71978,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 1 Způsob odpisu : R Vstupní cena : 71978,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00179 Název :Stůl Sand larch+paravan Typ : Rok výroby : 2013 Výr.číslo : Výrobce :
+
+Dodavatel:DT Expert Umístění :Praha Středisko:999 Odp.pracovník :Landa
+
+-------------------------------------------------------------------------------Dat.zařaz:02.01.2014 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :31.0 . Roční odpis.sazba v %:12,5000 Automatický odpis : A Pořizovací cena : 45487,53 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 45487,53 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 6
+
+Filtr: ================================================================================
+
+Číslo IM : 00180 Název :Křeslo Typ :
+
+Výrobce :
+
+Rok výroby : 2013 Výr.číslo :
+
+Dodavatel:DT Expert Umístění :Praha Středisko:999 Odp.pracovník :Landa
+
+-------------------------------------------------------------------------------Dat.zařaz:02.01.2014 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :31.0 . Roční odpis.sazba v %:12,5000 Automatický odpis : A Pořizovací cena : 48037,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 48037,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 7
+
+Filtr: ================================================================================
+
+Číslo IM : 00181 Název :Stůl Sand larch Typ :
+
+Výrobce :
+
+Rok výroby : 2013 Výr.číslo :
+
+Dodavatel:DT Expert Umístění :Praha Středisko:999 Odp.pracovník :Roušal
+
+-------------------------------------------------------------------------------Dat.zařaz:02.01.2014 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :31.0 . Roční odpis.sazba v %:12,5000 Automatický odpis : A Pořizovací cena : 45487,53 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 45487,53 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00182 Název :Křeslo Typ :
+
+Výrobce :
+
+Rok výroby : 2013 Výr.číslo :
+
+Dodavatel:DT Expert Umístění :Praha Středisko:999 Odp.pracovník :Roušal
+
+-------------------------------------------------------------------------------Dat.zařaz:02.01.2014 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :31.0 . Roční odpis.sazba v %:12,5000 Automatický odpis : A Pořizovací cena : 48037,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 48037,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 8
+
+Filtr: ================================================================================
+
+Číslo IM : 00183 Název :Rohová sedačka Bel Canto Typ : Rok výroby : 2013 Výr.číslo :
+
+Výrobce :
+
+Dodavatel:DT Expert Umístění :Praha Středisko:999 Odp.pracovník :Zasedačka I.pat
+
+-------------------------------------------------------------------------------Dat.zařaz:02.01.2014 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :31.0 . Roční odpis.sazba v %:12,5000 Automatický odpis : A Pořizovací cena : 74868,75 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 74868,75 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 9
+
+Filtr: ================================================================================
+
+Číslo IM : 00184 Název :Skříň atypická Typ :
+
+Výrobce :
+
+Rok výroby : 2013 Výr.číslo :
+
+Dodavatel:DT Expert Umístění :Praha Středisko:200 Odp.pracovník :Recepce
+
+-------------------------------------------------------------------------------Dat.zařaz:02.01.2014 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :31.0 . Roční odpis.sazba v %:12,5000 Automatický odpis : A Pořizovací cena : 47916,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 47916,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00185 Název :Pult recepční Typ :
+
+Výrobce :
+
+Rok výroby : 2013 Výr.číslo :
+
+Dodavatel:DT Expert Umístění :Praha Středisko:200 Odp.pracovník :Recepce
+
+-------------------------------------------------------------------------------Dat.zařaz:02.01.2014 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :31.0 . Roční odpis.sazba v %:12,5000 Automatický odpis : A Pořizovací cena : 81675,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 81675,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 10
+
+Filtr: ================================================================================
+
+Číslo IM : 00186 Název :Videorecorder digitální Typ : Rok výroby : 2014 Výr.číslo :
+
+Výrobce :
+
+Dodavatel:K.V.H. spol.
+
+Umístění :Praha Středisko:999 Odp.pracovník :Chodba příz.
+
+-------------------------------------------------------------------------------Dat.zařaz:10.02.2014 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :27.90. Roční odpis.sazba v %:12,5000 Automatický odpis : A Pořizovací cena : 123105,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 123105,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 11
+
+Filtr: ================================================================================
+
+Číslo IM : 00195 Název :Zabezpečovací technika Typ : Rok výroby : 2014 Výr.číslo :
+
+Výrobce :
+
+Dodavatel:Probin Umístění :Praha Středisko:999 Odp.pracovník :Zasedač.1.pat.
+
+-------------------------------------------------------------------------------Dat.zařaz:18.06.2014 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :27.90. Roční odpis.sazba v %:12,5000 Automatický odpis : A Pořizovací cena : 281947,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 281947,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00201 Název :software Encore Typ :
+
+Výrobce :
+
+Rok výroby : 2015 Výr.číslo :
+
+Dodavatel:Encore Umístění :Praha Středisko:999 Odp.pracovník :server
+
+-------------------------------------------------------------------------------Dat.zařaz:02.01.2016 Dat.vyřaz: Způsob vyřazení :
+
+Účet :01301 Typ odpisu : R Rok zvýšení pořiz.ceny : 2019 SKP :72.20.00 Roční odpis.sazba v %: 5,5555 Automatický odpis : N Pořizovací cena : 1710675,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : Způsob odpisu : U Vstupní cena : 1710675,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 12
+
+Filtr: ================================================================================
+
+Číslo IM : 00203 Název :5AI 0985 Renault Typ :
+
+Výrobce :
+
+Rok výroby : 2016 Výr.číslo :
+
+Dodavatel:Auto Kout Umístění :Praha Středisko:200 Odp.pracovník :Novák
+
+-------------------------------------------------------------------------------Dat.zařaz:31.03.2016 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.20 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 398000,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 398000,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 13
+
+Filtr: ================================================================================
+
+Číslo IM : 00219 Název :Fotoaparát Sony Cyber Typ :
+
+Výrobce :
+
+Rok výroby : 2018 Výr.číslo :
+
+Dodavatel:Megapixel Umístění :Praha Středisko:999 Odp.pracovník :Landa
+
+-------------------------------------------------------------------------------Dat.zařaz:15.03.2018 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :26.7 . Roční odpis.sazba v %:20,0000 Automatický odpis : A Pořizovací cena : 41980,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 41980,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00224 Název :PC HP Z240 Typ :
+
+Výrobce :
+
+Rok výroby : 2018 Výr.číslo : VR-21/18
+
+Dodavatel:VS Trade Umístění :Praha Středisko:999 Odp.pracovník :Cinert
+
+-------------------------------------------------------------------------------Dat.zařaz:30.07.2018 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :26.20.00 Roční odpis.sazba v %:33,3300 Automatický odpis : A Pořizovací cena : 48066,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 1 Způsob odpisu : R Vstupní cena : 48066,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 14
+
+Filtr: ================================================================================
+
+Číslo IM : 00225 Název :Nábytek Hobys Typ :
+
+Výrobce :
+
+Rok výroby : 2018 Výr.číslo :
+
+Dodavatel:APM interiéry Umístění :Olomouc Středisko:100 Odp.pracovník :Vymětalová
+
+-------------------------------------------------------------------------------Dat.zařaz:07.08.2018 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :31.0 . Roční odpis.sazba v %:12,5000 Automatický odpis : A Pořizovací cena : 61671,00 Zůstatková cena : 12803,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 61671,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 15
+
+Filtr: ================================================================================
+
+Číslo IM : 00226 Název :Nábytek Exner Typ :
+
+Výrobce :
+
+Rok výroby : 2018 Výr.číslo :
+
+Dodavatel:APM interiéry Umístění :Olomouc Středisko:100 Odp.pracovník :Nagyová
+
+-------------------------------------------------------------------------------Dat.zařaz:20.08.2018 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :31.0 . Roční odpis.sazba v %:12,5000 Automatický odpis : A Pořizovací cena : 51921,00 Zůstatková cena : 10805,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 51921,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00232 Název :Protipožární zabezpečení Typ : Rok výroby : 2019 Výr.číslo : Výrobce :
+
+Dodavatel:Firesi Umístění :Praha Středisko:999 Odp.pracovník :server
+
+-------------------------------------------------------------------------------Dat.zařaz:02.05.2019 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :28.29.20 Roční odpis.sazba v %:20,0000 Automatický odpis : A Pořizovací cena : 286951,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 286951,00 Daňová zůstatková cena : 0,00 06/317
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 16
+
+Filtr: ================================================================================
+
+Číslo IM : 00233 Název :7AS 4049 Hyundai I30 Typ :
+
+Výrobce :
+
+Rok výroby : 2019 Výr.číslo :
+
+Dodavatel:Auto Kout Umístění :Praha Středisko:200 Odp.pracovník :Němeček
+
+-------------------------------------------------------------------------------Dat.zařaz:10.07.2019 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.20 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 439000,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 439000,00 Daňová zůstatková cena : 0,00 06/536
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 17
+
+Filtr: ================================================================================
+
+Číslo IM : 00234 Název :7AS 4050 Hyundai I30 Typ :
+
+Výrobce :
+
+Rok výroby : 2019 Výr.číslo :
+
+Dodavatel:Auto Kout Umístění :Praha Středisko:200 Odp.pracovník :Rektoříková
+
+-------------------------------------------------------------------------------Dat.zařaz:10.07.2019 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.20 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 439000,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 439000,00 Daňová zůstatková cena : 0,00 06/537
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00236 Název :5AF 7439 Jeep renegade Typ : Rok výroby : 2019 Výr.číslo :
+
+Výrobce :
+
+Dodavatel:UniCredit Umístění :Praha Středisko:999 Odp.pracovník :kancelář
+
+-------------------------------------------------------------------------------Dat.zařaz:22.08.2019 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.20 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 429999,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 429999,00 Daňová zůstatková cena : 0,00 06/571
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 18
+
+Filtr: ================================================================================
+
+Číslo IM : 00238 Název :8AD 5503 Mercedes Typ :
+
+Výrobce :
+
+Dodavatel:Milan Král a.s.
+
+Rok výroby : 2020 Výr.číslo :
+
+Umístění :Praha Středisko:999 Odp.pracovník :Landová-Bar.
+
+-------------------------------------------------------------------------------Dat.zařaz:16.01.2020 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.20 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 2940090,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 2940090,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 19
+
+Filtr: ================================================================================
+
+Číslo IM : 00239 Název :7AR 2418 Hyundai Typ :
+
+Výrobce :
+
+Rok výroby : 2020 Výr.číslo :
+
+Dodavatel:Auto Kout Umístění :Pardubice Středisko:202 Odp.pracovník :Bartošová
+
+-------------------------------------------------------------------------------Dat.zařaz:16.03.2020 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.2 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 585000,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 585000,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00240 Název :8AC 9227 Mercedes Typ :
+
+Výrobce :
+
+Rok výroby : 2020 Výr.číslo :
+
+Dodavatel:Milan Král Umístění :Praha Středisko:999 Odp.pracovník :Landa
+
+-------------------------------------------------------------------------------Dat.zařaz:16.04.2020 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.2 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 2507818,71 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 2507818,71 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 20
+
+Filtr: ================================================================================
+
+Číslo IM : 00241 Název :8AC 9225 Mercedes Typ :
+
+Výrobce :
+
+Rok výroby : 2020 Výr.číslo :
+
+Dodavatel:Milan Král Umístění :Praha Středisko:999 Odp.pracovník :Roušal
+
+-------------------------------------------------------------------------------Dat.zařaz:16.04.2020 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.2 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 2474760,42 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 2474760,42 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 21
+
+Filtr: ================================================================================
+
+Číslo IM : 00242 Název :4SZ 8426 Hyundai Typ :
+
+Výrobce :
+
+Rok výroby : 2020 Výr.číslo :
+
+Dodavatel:Auto Kout Umístění :Praha Středisko:200 Odp.pracovník :Veleba
+
+-------------------------------------------------------------------------------Dat.zařaz:01.11.2020 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.2 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 798000,00 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 798000,00 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00243 Název :8AP 6890 Hyundai i30 Typ :
+
+Výrobce :
+
+Rok výroby : 2021 Výr.číslo :
+
+Dodavatel:Auto Kout Umístění :Praha Středisko:200 Odp.pracovník :Šimůnek
+
+-------------------------------------------------------------------------------Dat.zařaz:18.03.2021 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.2 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 439000,00 Zůstatková cena : 27430,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 439000,00 Daňová zůstatková cena : 97676,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 22
+
+Filtr: ================================================================================
+
+Číslo IM : 00244 Název :8AP 3829 Hyundai i30 Typ :
+
+Výrobce :
+
+Rok výroby : 2021 Výr.číslo :
+
+Dodavatel:Auto Kout Umístění :Praha Středisko:200 Odp.pracovník :Sirková
+
+-------------------------------------------------------------------------------Dat.zařaz:18.03.2021 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.2 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 439000,00 Zůstatková cena : 27430,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 439000,00 Daňová zůstatková cena : 97676,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 23
+
+Filtr: ================================================================================
+
+Číslo IM : 00245 Název :8AP 3828 Hyundai i30 Typ :
+
+Výrobce :
+
+Rok výroby : 2021 Výr.číslo :
+
+Dodavatel:Auto Kout Umístění :Ostrava Středisko:300 Odp.pracovník :Vyskočil
+
+-------------------------------------------------------------------------------Dat.zařaz:18.03.2021 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.2 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 439000,00 Zůstatková cena : 27430,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 439000,00 Daňová zůstatková cena : 97676,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00246 Název :8AP 4245 Hyundai Typ :
+
+Výrobce :
+
+Rok výroby : 2021 Výr.číslo :
+
+Dodavatel:Auto Kout Umístění :Praha Středisko:200 Odp.pracovník :Štěpanovský
+
+-------------------------------------------------------------------------------Dat.zařaz:18.03.2021 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.2 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 439000,00 Zůstatková cena : 27430,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 439000,00 Daňová zůstatková cena : 97676,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 24
+
+Filtr: ================================================================================
+
+Číslo IM : 00247 Název :8AP 4234 Hundai Typ :
+
+Výrobce :
+
+Rok výroby : 2021 Výr.číslo :
+
+Dodavatel:Auto Kout Umístění :Praha Středisko:200 Odp.pracovník :Kopas
+
+-------------------------------------------------------------------------------Dat.zařaz:18.03.2021 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.2 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 439000,00 Zůstatková cena : 27430,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 439000,00 Daňová zůstatková cena : 97676,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 25
+
+Filtr: ================================================================================
+
+Číslo IM : 00248 Název :8AP 6955 Hyundai Typ :
+
+Výrobce :
+
+Rok výroby : 2021 Výr.číslo :
+
+Dodavatel:Auto Kout Umístění :Nymburk Středisko:400 Odp.pracovník :kancelář
+
+-------------------------------------------------------------------------------Dat.zařaz:18.03.2021 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.2 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 439000,00 Zůstatková cena : 27430,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 439000,00 Daňová zůstatková cena : 97676,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00249 Název :8AS 1333 Tucson Typ :
+
+Výrobce :
+
+Rok výroby : 2021 Výr.číslo :
+
+Dodavatel:Auto Kout Umístění :Praha Středisko:999 Odp.pracovník :Cinert
+
+-------------------------------------------------------------------------------Dat.zařaz:10.05.2021 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.2 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 798000,00 Zůstatková cena : 83125,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 798000,00 Daňová zůstatková cena : 177555,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 26
+
+Filtr: ================================================================================
+
+Číslo IM : 00250 Název :PC server Linux Typ :
+
+Výrobce :
+
+Rok výroby : 2021 Výr.číslo : VR-25/21
+
+Dodavatel:Encore Umístění :Praha Středisko:999 Odp.pracovník :server
+
+-------------------------------------------------------------------------------Dat.zařaz:10.05.2021 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :26.20.00 Roční odpis.sazba v %:33,3300 Automatický odpis : A Pořizovací cena : 488295,50 Zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 1 Způsob odpisu : R Vstupní cena : 488295,50 Daňová zůstatková cena : 0,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 27
+
+Filtr: ================================================================================
+
+Číslo IM : 00251 Název :9AB 5452 Toyota Typ :
+
+Výrobce :
+
+Rok výroby : 2021 Výr.číslo :
+
+Dodavatel:Emil frey Umístění :Praha Středisko:200 Odp.pracovník :Bareš
+
+-------------------------------------------------------------------------------Dat.zařaz:07.12.2021 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.2 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 1084667,00 Zůstatková cena : 271139,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 1084667,00 Daňová zůstatková cena : 241336,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00252 Název :9CO 4700 Mercedez Typ :
+
+Výrobce :
+
+Rok výroby : 2022 Výr.číslo :
+
+Dodavatel:Milan Král Umístění :Praha Středisko:999 Odp.pracovník :Roušal
+
+-------------------------------------------------------------------------------Dat.zařaz:16.02.2022 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.2 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 2212877,00 Zůstatková cena : 645409,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 2212877,00 Daňová zůstatková cena : 984728,00 06/87
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 28
+
+Filtr: ================================================================================
+
+Číslo IM : 00253 Název :9AC 2505 Hyundai Typ :
+
+Výrobce :
+
+Rok výroby : 2022 Výr.číslo :
+
+Dodavatel:Auto Kout Umístění :Praha Středisko:999 Odp.pracovník :Landová
+
+-------------------------------------------------------------------------------Dat.zařaz:23.02.2022 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.2 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 698514,00 Zůstatková cena : 203712,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 698514,00 Daňová zůstatková cena : 310837,00 06/97
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 29
+
+Filtr: ================================================================================
+
+Číslo IM : 00254 Název :9AM 3801 Audi A6 Typ :
+
+Výrobce :
+
+Rok výroby : 2022 Výr.číslo :
+
+Dodavatel:Daniel Novaček PCM Umístění :Praha Středisko:200 Odp.pracovník :Vavřincová
+
+-------------------------------------------------------------------------------Dat.zařaz:09.11.2022 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.2 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 1799000,00 Zůstatková cena : 862000,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 1799000,00 Daňová zůstatková cena : 800554,00 06/719
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00255 Název :8AX 1835 Mercedes Typ :
+
+Výrobce :
+
+Rok výroby : 2022 Výr.číslo :
+
+Dodavatel:Hoffmann a Žižák Umístění :Praha Středisko:999 Odp.pracovník :Landa
+
+-------------------------------------------------------------------------------Dat.zařaz:06.12.2022 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.2 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 819000,00 Zůstatková cena : 409488,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 819000,00 Daňová zůstatková cena : 364454,00 06/825
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 30
+
+Filtr: ================================================================================
+
+Číslo IM : 00256 Název :Doménový server Typ :
+
+Výrobce :
+
+Rok výroby : 2022 Výr.číslo : VR 16/22
+
+Dodavatel:IT friends Umístění :Praha Středisko:999 Odp.pracovník :server
+
+-------------------------------------------------------------------------------Dat.zařaz:15.12.2022 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny : 2023 SKP :26.20.00 Roční odpis.sazba v %:33,3300 Automatický odpis : A Pořizovací cena : 635288,72 Zůstatková cena : 257709,72
+
+-------------------------------------------------------------------------------Odpisová skupina : 1 Způsob odpisu : R Vstupní cena : 635288,72 Daňová zůstatková cena : 115189,72 06/790
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 31
+
+Filtr: ================================================================================
+
+Číslo IM : 00257 Název :Poštovní server Typ :
+
+Výrobce :
+
+Rok výroby : 2023 Výr.číslo : VR 05/23
+
+Dodavatel:IT friends Umístění :Praha Středisko:999 Odp.pracovník :server
+
+-------------------------------------------------------------------------------Dat.zařaz:24.05.2023 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny : 2023 SKP :26.20.00 Roční odpis.sazba v %:33,3300 Automatický odpis : A Pořizovací cena : 591049,91 Zůstatková cena : 298470,91
+
+-------------------------------------------------------------------------------Odpisová skupina : 1 Způsob odpisu : R Vstupní cena : 591049,91 Daňová zůstatková cena : 276019,91
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00258 Název :5ST 1381 Volkswagen Typ :
+
+Výrobce :
+
+Rok výroby :
+
+Výr.číslo :
+
+Dodavatel:Louda auto Umístění :Praha Středisko:200 Odp.pracovník :Fridrich
+
+-------------------------------------------------------------------------------Dat.zařaz:29.05.2023 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.20 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 1369000,00 Zůstatková cena : 827101,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 1369000,00 Daňová zůstatková cena : 913807,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 32
+
+Filtr: ================================================================================
+
+Číslo IM : 00260 Název :1AA U296 Dacia Typ :
+
+Výrobce :
+
+Rok výroby :
+
+Výr.číslo :
+
+Dodavatel:Auto Kout Umístění :Praha Středisko:200 Odp.pracovník :Kancelář
+
+-------------------------------------------------------------------------------Dat.zařaz:27.11.2023 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.20 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 613300,00 Zůstatková cena : 447186,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 613300,00 Daňová zůstatková cena : 409377,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 33
+
+Filtr: ================================================================================
+
+Číslo IM : 00261 Název :EL3 35BX Lexus Typ :
+
+Výrobce :
+
+Rok výroby :
+
+Výr.číslo :
+
+Dodavatel:Louwman motor Umístění :Praha Středisko:200 Odp.pracovník :Landa jun
+
+-------------------------------------------------------------------------------Dat.zařaz:15.01.2024 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.20 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 1920000,00 Zůstatková cena : 1480000,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 1920000,00 Daňová zůstatková cena : 1708800,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00262 Název :Server Nymburk Typ :
+
+Výrobce :
+
+Rok výroby :
+
+Výr.číslo :
+
+Dodavatel:Encore Umístění :Nymburk Středisko:400 Odp.pracovník :Kykalová
+
+-------------------------------------------------------------------------------Dat.zařaz:08.02.2024 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :26.20.00 Roční odpis.sazba v %:33,3300 Automatický odpis : A Pořizovací cena : 156248,51 Zůstatková cena : 112848,51
+
+-------------------------------------------------------------------------------Odpisová skupina : 1 Způsob odpisu : R Vstupní cena : 156248,51 Daňová zůstatková cena : 124998,51
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 34
+
+Filtr: ================================================================================
+
+Číslo IM : 00263 Název :Server Pardubice Typ :
+
+Výrobce :
+
+Rok výroby : 2024 Výr.číslo :
+
+Dodavatel:Encore Umístění :Pardubice Středisko:202 Odp.pracovník :Bartošová
+
+-------------------------------------------------------------------------------Dat.zařaz:20.05.2024 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :26.20.00 Roční odpis.sazba v %:33,3300 Automatický odpis : A Pořizovací cena : 107991,77 Zůstatková cena : 86991,77
+
+-------------------------------------------------------------------------------Odpisová skupina : 1 Způsob odpisu : R Vstupní cena : 107991,77 Daňová zůstatková cena : 86392,77
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 35
+
+Filtr: ================================================================================
+
+Číslo IM : 00264 Název :1AD P734 Hyundai Typ :
+
+Výrobce :
+
+Rok výroby : 2024 Výr.číslo :
+
+Dodavatel:Auto Kout Umístění :Praha Středisko:200 Odp.pracovník :Čechrák
+
+-------------------------------------------------------------------------------Dat.zařaz:06.06.2024 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.20 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 570256,00 Zůstatková cena : 498970,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 570256,00 Daňová zůstatková cena : 507527,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00265 Název :1AC Z905 Hyundai Typ :
+
+Výrobce :
+
+Rok výroby : 2024 Výr.číslo :
+
+Dodavatel:Auto Kout Umístění :Nymburk Středisko:400 Odp.pracovník :Kykalová
+
+-------------------------------------------------------------------------------Dat.zařaz:06.06.2024 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.20 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 570256,00 Zůstatková cena : 498970,00
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 570256,00 Daňová zůstatková cena : 507527,00
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 36
+
+Filtr: ================================================================================
+
+Číslo IM : 00266 Název :1AD P741 Hyundai Typ :
+
+Výrobce :
+
+Rok výroby : 2024 Výr.číslo :
+
+Dodavatel:Auto Kout Umístění :Olomouc Středisko:100 Odp.pracovník :Nagyová
+
+-------------------------------------------------------------------------------Dat.zařaz:06.06.2024 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.20 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 580773,65 Zůstatková cena : 508173,65
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 580773,65 Daňová zůstatková cena : 516887,65
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 37
+
+Filtr: ================================================================================
+
+Číslo IM : 00267 Název :Servrovna Typ :
+
+Výrobce :
+
+Rok výroby : 2024 Výr.číslo :
+
+Dodavatel:Computer Umístění :Praha Středisko:999 Odp.pracovník :server
+
+-------------------------------------------------------------------------------Dat.zařaz:29.06.2024 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :26.20.00 Roční odpis.sazba v %:33,3300 Automatický odpis : A Pořizovací cena : 1611431,81 Zůstatková cena : 1342883,81
+
+-------------------------------------------------------------------------------Odpisová skupina : 1 Způsob odpisu : R Vstupní cena : 1611431,81 Daňová zůstatková cena : 1289144,81
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Číslo IM : 00268 Název :1AE P935 Mercedes Typ :
+
+Výrobce :
+
+Rok výroby : 2024 Výr.číslo :
+
+Dodavatel:Milan Král Umístění :Praha Středisko:999 Odp.pracovník :Landa
+
+-------------------------------------------------------------------------------Dat.zařaz:10.09.2024 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :29.10.20 Roční odpis.sazba v %:25,0000 Automatický odpis : A Pořizovací cena : 3293527,37 Zůstatková cena : 3087679,37
+
+-------------------------------------------------------------------------------Odpisová skupina : 2 Způsob odpisu : R Vstupní cena : 3293527,37 Daňová zůstatková cena : 3073527,37
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
+Firma:
+
+IČ :
+
+Sort :
+
+Pojišťovací makléřství 63998599
+
+Výpis karet
+
+Ze dne:31.12.2024 Str. 38
+
+Filtr: ================================================================================
+
+Číslo IM : 00269 Název :Server Krumlov Typ :
+
+Výrobce :
+
+Rok výroby :
+
+Výr.číslo :
+
+Dodavatel:ComputerCrev Umístění :Český Krumlov Středisko:500 Odp.pracovník :Štěpán
+
+-------------------------------------------------------------------------------Dat.zařaz:20.12.2024 Dat.vyřaz: Způsob vyřazení :
+
+Účet :02201 Typ odpisu : R Rok zvýšení pořiz.ceny :
+
+SKP :26.20.00 Roční odpis.sazba v %:33,3300 Automatický odpis : A Pořizovací cena : 100856,48 Zůstatková cena : 100856,48
+
+-------------------------------------------------------------------------------Odpisová skupina : 1 Způsob odpisu : R Vstupní cena : 100856,48 Daňová zůstatková cena : 80684,48
+
+-------------------------------------------------------------------------------Datum : 31.12.2024 Podpis pracovníka ================================================================================
+
