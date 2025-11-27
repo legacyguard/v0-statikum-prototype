@@ -7,7 +7,6 @@ import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { AnswerDisplay } from "@/components/answer-display"
 import type { MockData, PreparedAnswer } from "@/types/domain"
-import { findPreparedAnswer } from "@/lib/answer-matcher"
 import { Sparkles, Search } from "lucide-react"
 
 interface MainAppProps {
@@ -18,20 +17,58 @@ export function MainApp({ mockData }: MainAppProps) {
   const [question, setQuestion] = useState("")
   const [answer, setAnswer] = useState<PreparedAnswer | null | undefined>(undefined)
   const [isSearching, setIsSearching] = useState(false)
+  const [error, setError] = useState<string | null>(null)
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
 
     if (!question.trim()) return
 
     setIsSearching(true)
+    setError(null)
+    setAnswer(undefined)
 
-    // Simulate AI processing delay for better UX
-    setTimeout(() => {
-      const foundAnswer = findPreparedAnswer(question, mockData.answers)
-      setAnswer(foundAnswer || null)
+    try {
+      const response = await fetch("/api/ask", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ question }),
+      })
+
+      if (!response.ok) {
+        const data = await response.json().catch(() => ({}))
+        const message = data?.error || "Nepodarilo sa získať odpoveď od AI."
+        setError(message)
+        setAnswer(null)
+        return
+      }
+
+      const data: { answer?: string } = await response.json()
+
+      const answerText =
+        data.answer ||
+        "Model nevrátil žiadnu odpoveď. Skúste prosím otázku preformulovať alebo ju spresniť."
+
+      const aiAnswer: PreparedAnswer = {
+        id: "ai-generated",
+        match: question.toLowerCase(),
+        title: "AI odpoveď",
+        answer_text: answerText,
+        related_client: "",
+        related_docs: [],
+        related_metrics: [],
+      }
+
+      setAnswer(aiAnswer)
+    } catch (err) {
+      console.error("Error while asking AI:", err)
+      setError("Pri komunikácii s AI došlo k chybe. Skúste to znova.")
+      setAnswer(null)
+    } finally {
       setIsSearching(false)
-    }, 600)
+    }
   }
 
   return (
@@ -85,6 +122,12 @@ export function MainApp({ mockData }: MainAppProps) {
                 </ul>
               </div>
             </div>
+
+            {error && (
+              <div className="rounded-lg border border-destructive/30 bg-destructive/5 px-4 py-3 text-sm text-destructive">
+                {error}
+              </div>
+            )}
 
             <Button
               type="submit"

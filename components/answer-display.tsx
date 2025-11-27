@@ -44,10 +44,17 @@ export function AnswerDisplay({ answer, documents, metrics }: AnswerDisplayProps
         </div>
         <div className="space-y-3 flex-1">
           <h2 className="text-3xl font-bold tracking-tight text-balance">{answer.title}</h2>
-          <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-xs font-semibold bg-accent/10 text-accent border border-accent/20">
-            <span className="inline-block w-1.5 h-1.5 rounded-full bg-accent animate-pulse" />
-            Mock data – ukázkový výstup
-          </div>
+          {answer.id === "ai-generated" ? (
+            <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-xs font-semibold bg-primary/10 text-primary border border-primary/20">
+              <span className="inline-block w-1.5 h-1.5 rounded-full bg-primary animate-pulse" />
+              Odpověď AI modelu
+            </div>
+          ) : (
+            <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-xs font-semibold bg-accent/10 text-accent border border-accent/20">
+              <span className="inline-block w-1.5 h-1.5 rounded-full bg-accent animate-pulse" />
+              Ukázkový výstup z prototypu
+            </div>
+          )}
         </div>
       </div>
 
@@ -55,7 +62,7 @@ export function AnswerDisplay({ answer, documents, metrics }: AnswerDisplayProps
         <p className="text-foreground leading-relaxed text-pretty text-lg">{answer.answer_text}</p>
       </div>
 
-      {metricsByYear.length > 0 && (
+      {metricsByYear.length > 0 && answer.id !== "ai-generated" && (
         <div className="space-y-5">
           <div className="flex items-center gap-3">
             <div className="inline-flex items-center justify-center w-10 h-10 rounded-lg bg-primary/10 text-primary">
@@ -103,7 +110,7 @@ export function AnswerDisplay({ answer, documents, metrics }: AnswerDisplayProps
         </div>
       )}
 
-      {relatedDocs.length > 0 && (
+      {relatedDocs.length > 0 && answer.id !== "ai-generated" && (
         <div className="space-y-5">
           <div className="flex items-center gap-3">
             <div className="inline-flex items-center justify-center w-10 h-10 rounded-lg bg-accent/10 text-accent">
