@@ -1,15 +1,23 @@
 import { Card } from "@/components/ui/card"
-import type { PreparedAnswer, Document, Metric } from "@/types/domain"
+import type { PreparedAnswer, Document, Metric, ExternalSource } from "@/types/domain"
 import { getRelatedDocuments, getRelatedMetrics, groupMetricsByYear, formatCurrency } from "@/lib/answer-matcher"
-import { FileText, TrendingUp, AlertCircle, CheckCircle2 } from "lucide-react"
+import { FileText, TrendingUp, AlertCircle, CheckCircle2, ExternalLink } from "lucide-react"
 
 interface AnswerDisplayProps {
   answer: PreparedAnswer | null
   documents: Document[]
   metrics: Metric[]
+  externalSources: ExternalSource[]
+  recommendedExternalSourceIds?: string[]
 }
 
-export function AnswerDisplay({ answer, documents, metrics }: AnswerDisplayProps) {
+export function AnswerDisplay({
+  answer,
+  documents,
+  metrics,
+  externalSources,
+  recommendedExternalSourceIds = [],
+}: AnswerDisplayProps) {
   if (answer === null) {
     return (
       <Card className="p-10 shadow-xl border-2 border-dashed">
@@ -36,6 +44,11 @@ export function AnswerDisplay({ answer, documents, metrics }: AnswerDisplayProps
   const relatedMetrics = getRelatedMetrics(answer.related_metrics, metrics)
   const metricsByYear = groupMetricsByYear(relatedMetrics)
 
+  const recommendedSources: ExternalSource[] =
+    answer.id === "ai-generated"
+      ? externalSources.filter((source) => recommendedExternalSourceIds.includes(source.id))
+      : []
+
   return (
     <Card className="p-10 shadow-xl border-2 space-y-10 animate-in fade-in slide-in-from-bottom-4 duration-500">
       <div className="flex items-start gap-4">
@@ -61,6 +74,47 @@ export function AnswerDisplay({ answer, documents, metrics }: AnswerDisplayProps
       <div className="prose prose-lg max-w-none">
         <p className="text-foreground leading-relaxed text-pretty text-lg">{answer.answer_text}</p>
       </div>
+
+      {recommendedSources.length > 0 && (
+        <div className="space-y-5">
+          <div className="flex items-center gap-3">
+            <div className="inline-flex items-center justify-center w-10 h-10 rounded-lg bg-primary/10 text-primary">
+              <ExternalLink className="w-5 h-5" strokeWidth={2.5} />
+            </div>
+            <h3 className="text-xl font-bold">Doporučené zdroje</h3>
+          </div>
+          <div className="grid gap-4">
+            {recommendedSources.map((source) => (
+              <a
+                key={source.id}
+                href={source.url || "#"}
+                target={source.url ? "_blank" : undefined}
+                rel={source.url ? "noreferrer" : undefined}
+                className="flex items-start gap-4 p-4 rounded-xl bg-card border-2 border-border hover:border-primary/60 hover:shadow-lg transition-all group"
+              >
+                <span className="inline-flex items-center px-3 py-1.5 rounded-lg text-xs font-bold bg-primary text-primary-foreground shrink-0 uppercase tracking-wide shadow-sm">
+                  {source.source_type === "justice" && "Justice"}
+                  {source.source_type === "csu" && "ČSU"}
+                  {source.source_type === "cadastral" && "Katastr"}
+                  {source.source_type === "client_document" && "Klient"}
+                </span>
+                <div className="flex-1 min-w-0 space-y-1.5">
+                  <p className="font-bold text-base text-foreground group-hover:text-primary transition-colors">
+                    {source.name}
+                  </p>
+                  <p className="text-sm text-muted-foreground leading-relaxed">{source.description}</p>
+                  {source.url && (
+                    <p className="text-xs text-muted-foreground/80 flex items-center gap-1">
+                      <ExternalLink className="w-3 h-3" />
+                      <span>Otevřít externí odkaz</span>
+                    </p>
+                  )}
+                </div>
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
 
       {metricsByYear.length > 0 && answer.id !== "ai-generated" && (
         <div className="space-y-5">

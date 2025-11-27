@@ -1,0 +1,83 @@
+[
+  {
+    "id": "justice-register",
+    "source_type": "justice",
+    "name": "Justice – Obchodní rejstřík",
+    "url": "https://or.justice.cz/ias/ui/rejstrik",
+    "description": "Veřejný obchodní rejstřík. Lze zde dohledat základní údaje o společnosti a stáhnout účetní závěrky a výroční zprávy.",
+    "tags": ["justice", "rejstřík", "účetní závěrka", "výroční zpráva"],
+    "file_type": "html"
+  },
+  {
+    "id": "justice-large-report-example",
+    "source_type": "justice",
+    "name": "Justice – výpis společnosti (větší výroční zpráva)",
+    "url": "https://or.justice.cz/ias/ui/vypis-sl-firma?subjektId=327712",
+    "description": "Příklad detailního výpisu firmy včetně větší výroční zprávy. Vhodné pro analýzu finančních výsledků a komentářů managementu.",
+    "tags": ["justice", "výroční zpráva", "účetní výkazy"],
+    "file_type": "text",
+    "local_path": "docs/konsolidovana vyrocni zprava 2024.txt"
+  },
+  {
+    "id": "justice-small-fs-example",
+    "source_type": "justice",
+    "name": "Justice – menší účetní závěrka (scan)",
+    "url": "https://or.justice.cz/ias/ui/vypis-sl-detail?dokument=87446197&subjektId=302919&spis=182154",
+    "description": "Příklad menší účetní závěrky, která může být nahraná jako naskenovaný dokument. Čitelnost může být nižší.",
+    "tags": ["justice", "účetní závěrka", "scan"],
+    "file_type": "text",
+    "local_path": "docs/Menší účetní závěrka.txt"
+  },
+  {
+    "id": "csu-time-series-agriculture",
+    "source_type": "csu",
+    "name": "ČSU – časové řady pro zemědělství",
+    "url": "https://csu.gov.cz/produkty/zem_cr",
+    "description": "Časové řady Českého statistického úřadu pro oblast zemědělství. Vhodné pro analýzu trendů a benchmarků.",
+    "tags": ["čsu", "časové řady", "zemědělství", "statistika"],
+    "file_type": "xlsx",
+    "local_path": "docs/csu-zemedelstvi-time-series.xlsx"
+  },
+  {
+    "id": "cadastral-ownership-overview-mock",
+    "source_type": "cadastral",
+    "name": "Katastr – přehled vlastnictví (mock příklad)",
+    "url": "https://cuzk.gov.cz/",
+    "description": "Ukázkový přehled vlastnictví z katastru nemovitostí. V prototypu jde o mock příklad bez přístupu za paywallem.",
+    "tags": ["katastr", "vlastnictví", "nemovitosti"],
+    "file_type": "text",
+    "local_path": "docs/1) LV vše k 30.6.2025 - ZAS Býšť.txt"
+  },
+  {
+    "id": "cadastral-title-deed-mock",
+    "source_type": "cadastral",
+    "name": "Katastr – list vlastnictví (mock příklad)",
+    "url": "https://cuzk.gov.cz/",
+    "description": "Ukázkový list vlastnictví z katastru nemovitostí. Slouží jako příklad vstupu pro analýzu zajištění nemovitostí.",
+    "tags": ["katastr", "list vlastnictví", "nemovitosti"],
+    "file_type": "pdf",
+    "local_path": "docs/list-vlastnictvi-mock.pdf"
+  },
+  {
+    "id": "client-contracts-generic",
+    "source_type": "client_document",
+    "name": "Klientské smlouvy (kupní, úvěrové, jiné)",
+    "url": "",
+    "description": "Balík klientských smluv – kupní smlouvy, úvěrové smlouvy a splátkové kalendáře. Vhodné pro kontrolu podmínek, zajištění a splatností.",
+    "tags": ["klient", "kupní smlouva", "úvěrová smlouva", "splátkový kalendář"],
+    "file_type": "text",
+    "local_path": "docs/Smlouva o dílo.txt"
+  },
+  {
+    "id": "client-movable-assets-cards",
+    "source_type": "client_document",
+    "name": "Karty movitého majetku a technické průkazy (foto / scan)",
+    "url": "",
+    "description": "Ukázka karet movitého majetku a fotek/scanů technických průkazů. Vhodné pro převod do strukturované tabulky.",
+    "tags": ["klient", "movitý majetek", "technický průkaz", "scan"],
+    "file_type": "text",
+    "local_path": "docs/Karty DM.txt"
+  }
+]
+
+

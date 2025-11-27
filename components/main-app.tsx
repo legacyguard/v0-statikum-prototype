@@ -18,6 +18,7 @@ export function MainApp({ mockData }: MainAppProps) {
   const [answer, setAnswer] = useState<PreparedAnswer | null | undefined>(undefined)
   const [isSearching, setIsSearching] = useState(false)
   const [error, setError] = useState<string | null>(null)
+  const [recommendedExternalSourceIds, setRecommendedExternalSourceIds] = useState<string[]>([])
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
@@ -27,6 +28,7 @@ export function MainApp({ mockData }: MainAppProps) {
     setIsSearching(true)
     setError(null)
     setAnswer(undefined)
+    setRecommendedExternalSourceIds([])
 
     try {
       const response = await fetch("/api/ask", {
@@ -45,7 +47,7 @@ export function MainApp({ mockData }: MainAppProps) {
         return
       }
 
-      const data: { answer?: string } = await response.json()
+      const data: { answer?: string; recommendedSourceIds?: string[] } = await response.json()
 
       const answerText =
         data.answer ||
@@ -59,6 +61,10 @@ export function MainApp({ mockData }: MainAppProps) {
         related_client: "",
         related_docs: [],
         related_metrics: [],
+      }
+
+      if (Array.isArray(data.recommendedSourceIds)) {
+        setRecommendedExternalSourceIds(data.recommendedSourceIds)
       }
 
       setAnswer(aiAnswer)
@@ -152,7 +158,13 @@ export function MainApp({ mockData }: MainAppProps) {
 
         {/* Answer Display */}
         {answer !== undefined && (
-          <AnswerDisplay answer={answer} documents={mockData.documents} metrics={mockData.metrics} />
+          <AnswerDisplay
+            answer={answer}
+            documents={mockData.documents}
+            metrics={mockData.metrics}
+            externalSources={mockData.externalSources}
+            recommendedExternalSourceIds={recommendedExternalSourceIds}
+          />
         )}
       </div>
     </div>
